@@ -5,10 +5,9 @@ test.sh
 *.log
 *.tmp
 .netrwhist
-
+TODO.txt
 
 nvim
 spell/
 nvim/lazy-lock.json
 nvimore/lazy-lock.json
-TODO.txt

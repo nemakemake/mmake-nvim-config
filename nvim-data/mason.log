@@ -1,0 +1,12 @@
+[INFO  31.01.2026 11:52:46] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31.01.2026 11:52:46] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 31.01.2026 11:52:47] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=lua-language-server) error="Installation was aborted."
+[ERROR 31.01.2026 11:52:47] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=stylua) error="Installation was aborted."

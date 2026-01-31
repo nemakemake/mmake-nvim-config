@@ -1,0 +1,12 @@
+[INFO  31.01.2026 11:51:46] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31.01.2026 11:51:46] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  31.01.2026 11:51:52] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=stylua)
+[INFO  31.01.2026 11:51:58] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)

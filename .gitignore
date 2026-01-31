@@ -1,6 +1,11 @@
 tags
 test.sh
 .luarc.json
+*-data/
+*.log
+*.tmp
+.netrwhist
+
 
 nvim
 spell/
